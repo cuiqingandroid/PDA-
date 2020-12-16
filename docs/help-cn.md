@@ -1,1 +1,1 @@
-[条码说明](https://github.com/cuiqingandroid/PDA-/edit/main/docs/code-cn.md)
+[条码说明](https://github.com/cuiqingandroid/PDA-DOC/edit/main/docs/code-cn.md)
